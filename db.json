@@ -51,6 +51,14 @@
       "github": "https://hereisfahad.github.io/weatherApp/"
     },
     {
+      "name": "Recipes",
+      "desc": "Some of the best recipes from edmam api",
+      "tools": "ReactJs, Edmam Api",
+      "imgUrl": "https://i.ibb.co/DY5ZZVd/Capture.png",
+      "site": "https://cookingrecipes.netlify.com",
+      "github": "https://github.com/hereisfahad/recipeApp"
+    },
+    {
       "name": "Todo List js",
       "desc": "Basic todo list with vanilla javascript",
       "tools": "HTML5, CSS, JavaScript",
