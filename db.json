@@ -73,6 +73,14 @@
       "imgUrl": "https://i.ibb.co/8M0SCnL/Capture.png",
       "site": "https://hereisfahad.github.io/get-radio/",
       "github": "https://github.com/hereisfahad/get-radio"
+    },
+    {
+      "name": "Movie Details",
+      "desc": "Get details of movie and series.",
+      "tools": "ReactJs, OMDB API",
+      "imgUrl": "https://i.ibb.co/Sfbg4KC/moviedetail.png",
+      "site": "https://moviedetails.netlify.com/",
+      "github": "https://github.com/hereisfahad/movies-app-react"
     }
   ]
 }
