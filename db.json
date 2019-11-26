@@ -81,6 +81,14 @@
       "imgUrl": "https://i.ibb.co/Sfbg4KC/moviedetail.png",
       "site": "https://moviedetails.netlify.com/",
       "github": "https://github.com/hereisfahad/movies-app-react"
+    },
+    {
+      "name": "Flex Gallery",
+      "desc": "Flexible gallery using flexBox",
+      "tools": "HTML, CSS3, Flexbox, JavaScript",
+      "imgUrl": "https://i.ibb.co/9gDhf2r/gallery.png",
+      "site": "https://hereisfahad.github.io/js30-flexGallery/",
+      "github": "https://github.com/hereisfahad/js30-flexGallery"
     }
   ]
 }
