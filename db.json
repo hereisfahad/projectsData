@@ -4,7 +4,7 @@
       "name": "E-Clothing",
       "desc":
         "E-commerce site for clothing items. which displays and allow user to checkout multiple items.",
-      "tools": "ReactJs, Redux, Firebase, Stripe",
+      "tools": "ReactJs, Redux, Firebase",
       "imgUrl": "https://i.ibb.co/fxV4ygL/e-clothing.png",
       "site": "https://live-e-clothing.herokuapp.com/",
       "github": "https://github.com/hereisfahad/e-clothing"
@@ -12,7 +12,7 @@
     {
       "name": "Face Detection",
       "desc": "Detects faces in image (take input image url) using Clarifi Api.",
-      "tools": "ReactJs, NodeJs, PostgreSQL, Clarifai Api",
+      "tools": "ReactJs, Express, MongoDB Atlas, Clarifai Api",
       "imgUrl": "https://i.ibb.co/1QK7zYd/smart-brain.png",
       "site": "https://smartbrainy.netlify.com/",
       "github": "https://github.com/hereisfahad/smart-brain-ZTM/"
