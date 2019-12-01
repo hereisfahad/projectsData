@@ -4,7 +4,7 @@
       "name": "E-Clothing",
       "desc":
         "E-commerce site for clothing items. which displays and allow user to checkout multiple items.",
-      "tools": "ReactJs, Redux, Firebase",
+      "tools": "ReactJs, Firebase",
       "imgUrl": "https://i.ibb.co/fxV4ygL/e-clothing.png",
       "site": "https://live-e-clothing.herokuapp.com/",
       "github": "https://github.com/hereisfahad/e-clothing"
