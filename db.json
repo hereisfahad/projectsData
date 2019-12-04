@@ -89,6 +89,14 @@
       "imgUrl": "https://i.ibb.co/9gDhf2r/gallery.png",
       "site": "https://hereisfahad.github.io/js30-flexGallery/",
       "github": "https://github.com/hereisfahad/js30-flexGallery"
+    },
+    {
+      "name": "Music Player",
+      "desc": "Player which plays music ",
+      "tools": "Reactjs",
+      "imgUrl": "https://i.ibb.co/5cKq6N9/music.png",
+      "site": "https://trusting-boyd-0dd630.netlify.com/",
+      "github": "https://github.com/hereisfahad/music-app"
     }
   ]
 }
