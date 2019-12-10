@@ -1,21 +1,21 @@
 {
   "projects":[
     {
-      "name": "E-Clothing",
-      "desc":
-        "E-commerce site for clothing items. which displays and allow user to checkout multiple items.",
-      "tools": "ReactJs, Firebase",
-      "imgUrl": "https://i.ibb.co/fxV4ygL/e-clothing.png",
-      "site": "https://live-e-clothing.herokuapp.com/",
-      "github": "https://github.com/hereisfahad/e-clothing"
-    },
-    {
       "name": "Face Detection",
       "desc": "Detects faces in image (take input image url) using Clarifi Api.",
       "tools": "ReactJs, Express, MongoDB Atlas, Clarifai Api",
       "imgUrl": "https://i.ibb.co/1QK7zYd/smart-brain.png",
       "site": "https://smartbrainy.netlify.com/",
       "github": "https://github.com/hereisfahad/smart-brain-ZTM/"
+    },
+    {
+      "name": "E-Clothing",
+      "desc":
+        "E-commerce site for clothing items. which displays and allow user to checkout multiple items.",
+      "tools": "ReactJs, Firebase",
+      "imgUrl": "https://i.ibb.co/fxV4ygL/e-clothing.png",
+      "site": "https://e-clothing.netlify.com/",
+      "github": "https://github.com/hereisfahad/e-clothing"
     },
     {
       "name": "Budget App",
@@ -59,14 +59,6 @@
       "github": "https://github.com/hereisfahad/recipeApp"
     },
     {
-      "name": "Todo List js",
-      "desc": "Basic todo list with vanilla javascript",
-      "tools": "HTML5, CSS, JavaScript",
-      "imgUrl": "https://i.ibb.co/jJRD1G2/to-DOJquery.png",
-      "site": "https://hereisfahad.github.io/todo-js/.",
-      "github": "https://github.com/hereisfahad/todo-js"
-    },
-    {
       "name": "Radio",
       "desc": "Some of the best radio channels",
       "tools": "HTML5, CSS, JavaScript, Howler.js",
@@ -97,6 +89,14 @@
       "imgUrl": "https://i.ibb.co/5cKq6N9/music.png",
       "site": "https://trusting-boyd-0dd630.netlify.com/",
       "github": "https://github.com/hereisfahad/music-app"
+    },
+    {
+      "name": "Todo List js",
+      "desc": "Basic todo list with vanilla javascript",
+      "tools": "HTML5, CSS, JavaScript",
+      "imgUrl": "https://i.ibb.co/jJRD1G2/to-DOJquery.png",
+      "site": "https://hereisfahad.github.io/todo-js/.",
+      "github": "https://github.com/hereisfahad/todo-js"
     }
   ]
 }
