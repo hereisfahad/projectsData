@@ -4,7 +4,7 @@
       "name": "Face Detection",
       "desc": "Detects faces in image (take input image url) using Clarifi Api.",
       "tools": "ReactJs, Express, MongoDB Atlas, Clarifai Api",
-      "imgUrl": "https://i.ibb.co/1QK7zYd/smart-brain.png",
+      "imgUrl": "https://i.ibb.co/1mmX1K8/smart1.png",
       "site": "https://smartbrainy.netlify.com/",
       "github": "https://github.com/hereisfahad/smart-brain-ZTM/"
     },
