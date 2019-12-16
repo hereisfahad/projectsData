@@ -2,7 +2,7 @@
   "projects":[
     {
       "name": "Face Detection",
-      "desc": "Detects faces in image (take input image url) using Clarifi Api.",
+      "desc": "Detects faces in image (take image url as input ) using Clarifi Api.",
       "tools": "ReactJs, Express, MongoDB Atlas, Clarifai Api",
       "imgUrl": "https://res.cloudinary.com/dfo0rxpf3/image/upload/v1576511175/smart_ahy8id.png",
       "site": "https://smartbrainy.netlify.com/",
@@ -18,8 +18,8 @@
       "github": "https://github.com/hereisfahad/e-clothing"
     },
     {
-      "name": "Robo/Kitten/Monstor",
-      "desc": "Basic react app which displays robot cards.",
+      "name": "Card Filter",
+      "desc": "Basic react app which displays robot, kittens and monstors cards.",
       "tools": "ReactJs",
       "imgUrl": "https://res.cloudinary.com/dfo0rxpf3/image/upload/v1576511992/kit_hyxddz.png",
       "site": "https://hereisfahad.github.io/robofriend-ZTM/",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Todo List-JQuery",
-      "desc": "Basic todo list with jquery",
+      "desc": "Basic todo list with jquery. You can add, delete and corssed the todo item.",
       "tools": "HTML, CSS, JQuery",
       "imgUrl": "https://i.ibb.co/jJRD1G2/to-DOJquery.png",
       "site": "https://hereisfahad.github.io/todolist-jquery/",
@@ -68,7 +68,7 @@
     },
     {
       "name": "Movie Details",
-      "desc": "Get details of movie and series.",
+      "desc": "Get details of movie and series like poster, actors and plot.",
       "tools": "ReactJs, OMDB API",
       "imgUrl": "https://res.cloudinary.com/dfo0rxpf3/image/upload/v1576511795/movie_u5oftb.png",
       "site": "https://moviedetails.netlify.com/",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Todo List js",
-      "desc": "Basic todo list with vanilla javascript",
+      "desc": "Basic todo list with vanilla javascript without using any library.",
       "tools": "HTML5, CSS, JavaScript",
       "imgUrl": "https://i.ibb.co/jJRD1G2/to-DOJquery.png",
       "site": "https://hereisfahad.github.io/todo-js/.",
