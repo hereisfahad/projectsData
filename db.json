@@ -12,7 +12,7 @@
       "name": "E-Clothing",
       "desc":
         "E-commerce site for clothing items. which displays and allow user to checkout multiple items.",
-      "tools": "ReactJs, Firebase",
+      "tools": "ReactJs, Redux, Firebase",
       "imgUrl": "https://i.ibb.co/fxV4ygL/e-clothing.png",
       "site": "https://e-clothing.netlify.com/",
       "github": "https://github.com/hereisfahad/e-clothing"
